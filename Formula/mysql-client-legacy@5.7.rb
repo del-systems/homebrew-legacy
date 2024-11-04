@@ -7,7 +7,7 @@ class MysqlClientLegacyAT57 < Formula
   keg_only :versioned_formula
 
   depends_on "cmake" => :build
-  depends_on "openssl@1.1"
+  depends_on "openssl-legacy@1.1"
   uses_from_macos "libedit"
 
   def install
