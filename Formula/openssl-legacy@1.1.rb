@@ -2,6 +2,7 @@ class OpensslLegacyAT11 < Formula
   desc "Cryptography and SSL/TLS Toolkit"
   homepage "https://openssl.org/"
   url "https://www.openssl.org/source/openssl-1.1.1w.tar.gz"
+  mirror "https://github.com/del-systems/homebrew-legacy/raw/refs/heads/main/Artifacts/openssl-1.1.1w.tar.gz"
   sha256 "cf3098950cb4d853ad95c0841f1f9c6d3dc102dccfcacd521d93925208b76ac8"
   license "OpenSSL"
   version_scheme 1
