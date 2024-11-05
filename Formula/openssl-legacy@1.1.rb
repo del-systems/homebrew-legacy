@@ -92,7 +92,7 @@ class OpensslLegacyAT11 < Formula
   end
 
   def openssldir
-    etc/"openssl@1.1"
+    etc/"openssl-legacy@1.1"
   end
 
   def post_install
