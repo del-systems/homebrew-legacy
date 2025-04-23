@@ -1,5 +1,6 @@
 class MysqlClientLegacyAT57 < Formula
   desc "Open source relational database management system"
+  homepage "https://github/del-systems/homebrew-legacy"
 
   url "https://github.com/del-systems/homebrew-legacy/raw/refs/heads/main/Artifacts/mysql-boost-5.7.42.tar.gz"
   sha256 "7e1a7d45e7ca382eb3a992f63631c380904dd49c89f3382ec950aef01997524f"
